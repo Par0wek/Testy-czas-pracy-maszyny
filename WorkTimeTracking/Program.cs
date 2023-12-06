@@ -38,10 +38,6 @@ public class WorkTimeTrackingTests
         Assert.AreEqual(1, 1);
     }
 
-    // Inne testy można dodać w podobny sposób
-
-    // Dodaj te funkcje, aby testy mogły bezpośrednio korzystać z kodu głównego
-
     private static void CalculatePageSummary(List<Entry> page, out int totalHours, out int totalMinutes)
     {
         totalHours = 0;
