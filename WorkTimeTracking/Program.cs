@@ -33,7 +33,7 @@ public class WorkTimeTrackingTests
     }
 
     [Test]
-    public void gowno()
+    public void test()
     {
         Assert.AreEqual(1, 1);
     }
